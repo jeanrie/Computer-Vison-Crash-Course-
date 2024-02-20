@@ -1,1 +1,1 @@
-# Computer-Vison-Crash-Course-
+# Computer Vison (Crash-Course)
