@@ -12,7 +12,7 @@ I am an enthusiastic Computer Engineering Student specializing in Data Science a
 # My Toolbox 🛠️
 
 
-🖥️ Languages: Python 
+🖥️ Languages: Python  <br>
 👁️ Data Science: Pandas, NumPy, OpenCV
 
 # Connect with Me 📲
@@ -22,4 +22,4 @@ Let's stay connected! Feel free to reach out if you have any questions or ideas:
 - 📧 Email: [qemhernandez1@tip.edu.ph](mailto:qemhernandez1@tip.edu.ph)
 - 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/eujean-marie-hernandez-6126b2247/)
 
-Happy coding! 🤖👁️‍🗨️
+Happy coding! 🤖
